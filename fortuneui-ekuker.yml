@@ -1,0 +1,6 @@
+fortuneService-ekuker:
+  scheme: https
+  address: fortuneservice-ekuker-effective-logography.apps.pcfpre-phx.cloud.boeing.com
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
+
